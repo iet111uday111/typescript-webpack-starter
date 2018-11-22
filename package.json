@@ -14,7 +14,7 @@
     "webpack4",
     "typescript"
   ],
-  "author": "Juri Strumpflohner",
+  "author": "Udayaditya Singh",
   "license": "ISC",
   "devDependencies": {
     "@types/jasmine": "2.8.7",
